@@ -26,7 +26,7 @@ You'll also need to download on your phone the `Expo Go` app. This will allow yo
 
 &nbsp;
 
-## Server
+## Server:dev
 
 ### Install dependencies
 
@@ -41,7 +41,7 @@ npm install
 ### Start
 
 ```
-npm run start:dev
+npm run start
 ```
 
 ### Get your IP address

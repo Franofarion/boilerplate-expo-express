@@ -12,11 +12,15 @@ const getAllSchools = async (req, res) => {
 
 const getOneSchool = async (req, res) => {
   // const rawData = await findOne(req.params.id);
+  const rawData = 'Poudlard';
+
   res.json(rawData);
 };
 
 const getWizardFromSchool = async (req, res) => {
   // const rawData = await findWizards(req.params.id);
+  const rawData = ['Harry Potter', 'Drago Malfoi'];
+
   res.json(rawData);
 };
 
