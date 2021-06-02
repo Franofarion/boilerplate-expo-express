@@ -44,7 +44,7 @@ npm install
 npm run start:dev
 ```
 
-### Start ngrok
+### Get your IP address
 
 In order to your mobile app to access the server we need to use the ip address of the computer. Go to the parent directory and start :
 
