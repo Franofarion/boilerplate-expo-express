@@ -6,7 +6,7 @@
 
 const getAllSchools = async (req, res) => {
   // const rawData = await findMany();
-  const rawData = ["Poudlard", "Geoffres"];
+  const rawData = ['Poudlard', 'Geoffres'];
   res.json(rawData);
 };
 
