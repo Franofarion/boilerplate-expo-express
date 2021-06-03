@@ -53,6 +53,7 @@ sh migrate_ip_address.sh
 ```
 
 > The script will insert your IP address into your mobile app .env !
+> The script will insert your IP address into your mobile app .env ! If this command doesn't work type `ipconfig getifaddr en0` (on Mac) in your terminal and change the first line of the Env file with the ip address you got : `EXPO_REACT_NATIVE_SERVER_URL=http:// & the result of your last command`
 
 ## Mobile
 
